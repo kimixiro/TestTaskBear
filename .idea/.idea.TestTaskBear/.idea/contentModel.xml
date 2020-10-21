@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kimixiro\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kimixiro\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TestTaskBear.-339923031.00" t="ExcludeRecursive" />
+    <e p="D:\unity\TestTaskBear" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Script" t="Include">
+          <e p="SimpleFSM" t="Include">
+            <e p="BotAI.cs" t="Include" />
+            <e p="IState.cs" t="Include" />
+            <e p="State" t="Include">
+              <e p="IdleState.cs" t="Include" />
+              <e p="MoveState.cs" t="Include" />
+            </e>
+            <e p="StateMachine.cs" t="Include" />
+          </e>
+          <e p="Vers1" t="Include">
+            <e p="Chair.cs" t="Include" />
+            <e p="ChairaHandler.cs" t="Include" />
+          </e>
+          <e p="Vers2" t="Include">
+            <e p="ChairaAllotment.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="TestTaskBear.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
